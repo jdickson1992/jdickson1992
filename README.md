@@ -41,7 +41,17 @@ TBD ...
 
 </details>
 
+<details>
+  <summary><b>📊&nbsp;&nbsp;Github&nbsp;Stats</b></summary>
+  <br/>
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jdickson1992)](https://git.io/streak-stats)
+
+
+![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=jdickson1992&count_private=true&show_icons=true&theme=radical)
+
+</details>
 <!--
 **jdickson1992/jdickson1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
