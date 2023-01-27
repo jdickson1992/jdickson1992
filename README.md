@@ -3,7 +3,7 @@ This is my *digital* playground where I break things ☠️
 
 - 🔭 &nbsp;I’m a kdb+ engineer who is currently *segwaying* into the DevOps world 
 - 💬 &nbsp;Ask me about anything related to `kdb+/q`, `Apache Kafka`, `Terraform`, `Ansible` , `Containerization` or `AWS`
-- 📫 &nbsp;How to reach me: [jdickson.dev](https://www.jdickson.dev) ⚙️ 
+- 📫 &nbsp;How to reach me: [jdickson.dev](https://www.jdickson.dev) (Currently, *a work in progress*)⚙️ 
 - 👨‍💻 &nbsp;Read more about my projects at ...
 - ⚡ &nbsp;Fun fact: I ❤️ sport and 🐕. Proud owner of Cooper!
 
