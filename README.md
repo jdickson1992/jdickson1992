@@ -3,9 +3,8 @@ This is my *digital* playground where I break things ☠️
 
 - 🔭 &nbsp;I’m a kdb+ engineer who is currently *segwaying* into the DevOps world 
 - 💬 &nbsp;Ask me about anything related to `kdb+/q`, `Apache Kafka`, `Terraform`, `Ansible` , `Containerization` or `AWS`
-- 📫 &nbsp;How to reach me: [jdickson.dev](https://www.jdickson.dev) (Currently, *a work in progress*)⚙️ 
-- 👨‍💻 &nbsp;Read more about my projects at ...
-- ⚡ &nbsp;Fun fact: I ❤️ sport and 🐕. Proud owner of Cooper!
+- 👨‍💻 &nbsp;Read more about my projects at [jdickson.dev](https://www.jdickson.dev)
+- 🌱 I’m currently learning k8s.
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
@@ -16,7 +15,7 @@ This is my *digital* playground where I break things ☠️
 
 <!-- BLOG-POST-LIST:END -->
 
-🔗 &nbsp;**Connect with me 👇**
+🔗 &nbsp;**Connect with me 👇📫**
 <p align="left">
 <a href="https://www.linkedin.com/in/jdickson1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jdickson1" height="30" width="40" /></a>
 
