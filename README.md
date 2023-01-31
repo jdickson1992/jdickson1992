@@ -10,8 +10,9 @@ This is my *digital* playground where I break things ☠️
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [A **mini-series** on using kdb+ and Machine learning to predict the early symptoms of Dementia](https://jdickson.dev/posts/dementia/predicting_dementia_1/)
-- [A *cheap* in-house discovery service using kdb+ and js](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [A multithreaded Kafka consumer](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
+- [A *cheap* in-house discovery service using kdb+ and js]()
+- [A multithreaded Kafka consumer]()
+- Containerising an Apache Kafka KRaft cluster ()
 
 <!-- BLOG-POST-LIST:END -->
 
