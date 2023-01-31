@@ -12,7 +12,7 @@ This is my *digital* playground where I break things ☠️
 - [A **mini-series** on using kdb+ and Machine learning to predict the early symptoms of Dementia](https://jdickson.dev/posts/dementia/predicting_dementia_1/)
 - [A *cheap* in-house discovery service using kdb+ and js]()
 - [A multithreaded Kafka consumer]()
-- Containerising an Apache Kafka KRaft cluster ()
+- [Containerising an Apache Kafka KRaft cluster] ()
 
 <!-- BLOG-POST-LIST:END -->
 
@@ -21,18 +21,6 @@ This is my *digital* playground where I break things ☠️
 <a href="https://www.linkedin.com/in/jdickson1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jdickson1" height="30" width="40" /></a>
 
 
-
-<details>
-  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
-  <br/>
-
-I am a kdb+ engineer with over 7 years experience ... 
-
-### My Opensource Story
-
-TBD ...
-
-</details> 
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
