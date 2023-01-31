@@ -9,7 +9,7 @@ This is my *digital* playground where I break things ☠️
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Using kdb+ and Machine learning to predict the early symptoms of Dementia](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
+- [A **mini-series** on using kdb+ and Machine learning to predict the early symptoms of Dementia](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
 - [A *cheap* in-house discovery service using kdb+ and js](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
 - [A multithreaded Kafka consumer](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
 
