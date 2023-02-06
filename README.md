@@ -1,7 +1,7 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 This is my *digital* playground where I break things ☠️
 
-- 🔭 &nbsp;I’m a kdb+ engineer who is currently *segwaying* into the DevOps world 
+- 🔭 &nbsp;I’m a senior kdb+ engineer who is currently *segwaying* into the DevOps world 
 - 💬 &nbsp;Ask me about anything related to `kdb+/q`, `Apache Kafka`, `Terraform`, `Ansible` , `Containerization` or `AWS`
 - 👨‍💻 &nbsp;Read more about my projects at [jdickson.dev](https://www.jdickson.dev)
 - 🌱 I’m currently learning k8s.
