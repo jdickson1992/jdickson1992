@@ -9,9 +9,8 @@ This is my *digital* playground where I break things ☠️
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [A **mini-series** on using kdb+ and Machine learning to predict the early symptoms of Dementia](https://jdickson.dev/posts/dementia/predicting_dementia_1/)
-- [A *cheap* in-house discovery service using kdb+ and js]()
-- [A multithreaded Kafka consumer]()
-- [Containerising an Apache Kafka KRaft cluster] ()
+- [A *cheap* in-house discovery service using kdb+ and js](https://jdickson.dev/posts/discovery/discovery_service/)
+- [A multithreaded Kafka consumer](https://jdickson.dev/posts/concurrency/thread_safe_consumer/)
 
 <!-- BLOG-POST-LIST:END -->
 
