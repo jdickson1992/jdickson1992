@@ -1,9 +1,23 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-- 🔭 &nbsp;I’m a senior kdb+ engineer who is currently *segwaying* into the DevOps world 
-- 💬 &nbsp;Ask me about anything related to `kdb+/q`, `Apache Kafka`, `Terraform`, `Ansible` , `Containerization` or `AWS`
+- 🔭 &nbsp;I’m a DevOps Engineer with over 8 years experience. Previously, a lead q/kdb+ engineer within the financial services industry. 
+- 💬 &nbsp;Ask me anything related to:
+  
+  |    |  |
+  | -------- | ------- |
+  | 👨‍💻 *Programming Languages*  | `kdb+/q` `Python`  |
+  | 📲 *Event Driven Architecture* | `Apache Kafka` `Lambdas` |
+  | 🏙️ *Infrastructure as Code*    | `Terraform` `Cloudformation`    |
+  | 🐳 *Containerisation & Orchestration*          | `Kubernetes` `Docker` `Docker Swarm` `Helm` |
+  | ☁️ *Cloud Computing Architecture* | `AWS` |
+  | 🚿 *CI/CD Pipelines* | `GitHub Actions` |
+  | 🐛 *Web Scraping / Crawling* | `Scrapy` |
+
 - 👨‍💻 &nbsp;Read more about my projects at [jdickson.dev](https://www.jdickson.dev)
-- 🌱 I’m currently recreating environments in the cloud using k8s.
+- 🌎 Some of my open-source projects can be found here 🫳
+  -  [Kafka Scrapy Connect - A custom Scrapy library that integrates Scrapy with Kafka to improve broad crawls](https://pypi.org/project/kafka-scrapy-connect/)
+  -  [Kafka KRaft GitHub Action - Automatically builds a custom Kafka KRaft broker for seamless integration testing in your CI/CD Pipelines](https://github.com/marketplace/actions/kafka-kraft)
+- 🌱 I’m currently recreating environments in the cloud using IaC and k8s.
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
