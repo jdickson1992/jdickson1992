@@ -1,7 +1,10 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
+
 [![Linkedin: jdickson](https://img.shields.io/badge/-jdickson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jdickson1/)](https://www.linkedin.com/in/jdickson1/)
 [![GitHub jdickson1992](https://img.shields.io/github/followers/jdickson1992?label=follow&style=social)](https://github.com/jdickson1992)
+
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXI5YXZlcHloZmI3YWMzN2hjOHB3eDg5cndkbW84ZzkzY2c2eTYybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="230">
 
 - 🔭 &nbsp;I’m James, a DevOps Engineer with over 8 years experience.
     - Previously, a lead q/kdb+ engineer within the financial services industry. 
