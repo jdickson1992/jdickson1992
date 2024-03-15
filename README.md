@@ -1,6 +1,10 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-- 🔭 &nbsp;I’m a DevOps Engineer with over 8 years experience. Previously, a lead q/kdb+ engineer within the financial services industry. 
+[![Linkedin: jdickson](https://img.shields.io/badge/-jdickson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jdickson1/)](https://www.linkedin.com/in/jdickson1/)
+[![GitHub jdickson1992](https://img.shields.io/github/followers/jdickson1992?label=follow&style=social)](https://github.com/jdickson1992)
+
+- 🔭 &nbsp;I’m James, a DevOps Engineer with over 8 years experience.
+    - Previously, a lead q/kdb+ engineer within the financial services industry. 
 - 💬 &nbsp;Ask me anything related to:
   
   |    |  |
@@ -27,10 +31,6 @@
 - [A multithreaded Kafka consumer model](https://jdickson.dev/posts/concurrency/thread_safe_consumer/)
 
 <!-- BLOG-POST-LIST:END -->
-
-🔗 &nbsp;**Connect with me 👇📫**
-<p align="left">
-<a href="https://www.linkedin.com/in/jdickson1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jdickson1" height="30" width="40" /></a>
 
 
 
