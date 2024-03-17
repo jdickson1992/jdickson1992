@@ -8,7 +8,7 @@
 
 - 🔭 &nbsp;I’m James, a Developer come DevOps *"Engineer"* with over 8 years experience in the Tech Industry!
     - Previously, a lead q/kdb+ engineer within the financial services industry who specialised in High-Frequency Data.
-    - Around ~5 years ago, I *fell* into the domain of DevOps and ... *fell* in love with it!
+    - Around ~6 years ago, I *fell* into the domain of DevOps and ... *fell* in love with it!
     - I like to see DevOps as a *hat* that a developer can wear while working on certain types of problems.
     - I enjoy using my brain to think out of the box to solve problems whithout using the same *cooking receipt* for everything. 
 - 💬 &nbsp;Ask me anything related to:
