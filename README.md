@@ -6,8 +6,9 @@
 
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXI5YXZlcHloZmI3YWMzN2hjOHB3eDg5cndkbW84ZzkzY2c2eTYybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="230">
 
-- 🔭 &nbsp;I’m James, a DevOps Engineer with over 8 years experience.
-    - Previously, a lead q/kdb+ engineer within the financial services industry. 
+- 🔭 &nbsp;I’m James, a Developer come DevOps "Engineer" with over 8 years experience in the Tech Industry!
+    - Previously, a lead q/kdb+ engineer within the financial services industry who specialised in High-Frequency Data.
+    - Around ~5 years ago, I *fell* into the domain of DevOps and ... *fell* in love with it! I like to see DevOps as a *hat* that a developer can wear while working on certain types of problems. I enjoy using my brain to think out of the box to solve problems whithout using the same *cooking receipt* for everything. 
 - 💬 &nbsp;Ask me anything related to:
   
   |    |  |
