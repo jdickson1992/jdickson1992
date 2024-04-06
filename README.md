@@ -20,7 +20,7 @@
   | 🏙️ *Infrastructure as Code*    | `Terraform` `Cloudformation`    |
   | 🐳 *Containerisation & Orchestration*          | `Kubernetes` `Docker` `Docker Swarm` `Helm` |
   | ☁️ *Cloud Computing Architecture* | `AWS` |
-  | 🚿 *CI/CD Pipelines* | `GitHub Actions` |
+  | 🚿 *CI/CD Pipelines* | `GitHub Actions` `ArgoCD` |
   | 🐛 *Web Scraping / Crawling* | `Scrapy` |
 
 - 👨‍💻 &nbsp;Read more about my projects at [jdickson.dev](https://www.jdickson.dev)
