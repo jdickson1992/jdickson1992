@@ -11,7 +11,7 @@
     - Many years ago, I *fell* into the domain of DevOps and ... *fell* in love with it!
     - I like to see DevOps as a *hat* that a developer can wear while working on certain types of problems.
     - I enjoy using my brain to think out of the box to solve problems without using the same *cooking receipt* for everything. 
-- 💬 &nbsp;Ask me anything related to:
+- 💬 &nbsp;Reach out if you want to chat about:
   
   |    |  |
   | -------- | ------- |
@@ -19,6 +19,7 @@
   | 📲 *Event Driven Architecture* | `Apache Kafka` `Lambdas` |
   | 🏙️ *Infrastructure as Code*    | `Terraform` `Cloudformation`    |
   | 🐳 *Containerisation & Orchestration*          | `Kubernetes` `Docker` `Docker Swarm` `Helm` |
+  | 📦 *Configuration Management* | `Ansible` |
   | ☁️ *Cloud Computing Architecture* | `AWS` |
   | 🚿 *CI/CD Pipelines* | `GitHub Actions` `ArgoCD` |
   | 🐛 *Web Scraping / Crawling* | `Scrapy` |
