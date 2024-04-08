@@ -1,12 +1,12 @@
+<div style="position: absolute; top: 0; right: 0;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBqMnNiazg0OHduazF5ZHB2Y3ZnaWFzODcyNHBxY3A4bXpzaTAwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QHE5gWI0QjqF2/giphy.gif" width="230">
+</div>
+
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 
 [![Linkedin: jdickson](https://img.shields.io/badge/-jdickson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jdickson1/)](https://www.linkedin.com/in/jdickson1/)
 [![GitHub jdickson1992](https://img.shields.io/github/followers/jdickson1992?label=follow&style=social)](https://github.com/jdickson1992)
-
-<div style="position: absolute; top: 0; right: 0;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBqMnNiazg0OHduazF5ZHB2Y3ZnaWFzODcyNHBxY3A4bXpzaTAwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QHE5gWI0QjqF2/giphy.gif" width="230">
-</div>
 
 - 🔭 &nbsp;I’m James, a Developer come DevOps *"Engineer"* with over 8 years experience in the Tech Industry!
     - Previously, a lead q/kdb+ engineer within the financial services industry who specialised in High-Frequency Data.
