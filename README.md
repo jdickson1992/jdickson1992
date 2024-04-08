@@ -28,7 +28,7 @@
 - 🌎 Some of my open-source projects can be found here 🫳
   -  [Kafka Scrapy Connect - A custom Scrapy library that integrates Scrapy with Kafka to improve broad crawls](https://pypi.org/project/kafka-scrapy-connect/)
   -  [Kafka KRaft GitHub Action - Automatically builds a custom Kafka KRaft broker for seamless integration testing in your CI/CD Pipelines](https://github.com/marketplace/actions/kafka-kraft)
-- 🌱 I’m currently recreating environments in the cloud using IaC and k8s.
+- 🌱 I’m currently building scalable, high available environments in the cloud using IaC and k8s.
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
